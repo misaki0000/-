@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*color: #6c6b6b;*/
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  height: 400px;
+  background-image: url("../画像/img2/mv.jpg");
+  background-size: cover;
+  background-position: bottom;
+}
+
+header .heading {
+  padding: 20px 0 0 20px;
+}
+
+main {
+  width: 840px;
+  /*padding-top: 50px;*/
+  /*display:  flex;*/
+  /*justify-content: center;*/
+  margin: 0 auto;
+}
+
+.box1 {
+  padding-top: 20px;
+}
+
+.box-item {
+  border-bottom: 3px solid #708090;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
