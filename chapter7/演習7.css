@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #6c6b6b;
+  box-sizing: border-box;
+}
+
+header {
+  height: 400px;
+  margin-bottom: 50px;
+}
+
+.img {
+  background-image: url("../../画像/img2/mv.jpg");
+  height: 400px;
+  background-position: bottom;
+  background-size: cover;
+}
+
+.title {
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  /*display: flex;*/
+  /*justify-content: center;*/
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.main-box {
+  border-bottom: 1px solid #808080;
+  padding-bottom: 30px;
+}
+
+.main-box2 {
+  border-bottom: 1px solid #808080;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.main-box3 {
+  border-bottom: 1px solid #808080;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+.main-box4 {
+  border-bottom: 1px solid #808080;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
