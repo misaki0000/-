@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #6c6b6b;
+  box-sizing: border-box;
+}
+
+.img1 {
+  background-image: url("../../画像/box/box1.jpg");
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.img2 {
+  background-image: url("../../画像/box/box2.jpg");
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.img3 {
+  background-image: url("../../画像/box/box3.jpg");
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
+.img4 {
+  background-image: url("../../画像/box/box4.jpg");
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+}
